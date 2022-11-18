@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Github alt (for gaming stuff): <a href="/snowcandy2">@snowcandy2</a>
+Github alt (for gaming stuff): <a href="//github.com/snowcandy2">@snowcandy2</a>
 
 <!--
 **snowcandy1/snowcandy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
